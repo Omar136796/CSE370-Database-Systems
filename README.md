@@ -1,6 +1,6 @@
 # CSE370 – Database Systems Lab (BRAC University)
 
-Lab assignments from CSE370 (Database Systems) at BRAC University, written
+Lab assignments from CSE370 : Database Systems (Spring 2025) at BRAC University, written
 in **SQL** and run on **MariaDB/MySQL**. Covers creating and modifying
 tables, filtering and sorting, nested and correlated subqueries,
 aggregation with `GROUP BY`/`HAVING`, and multi-table joins.
